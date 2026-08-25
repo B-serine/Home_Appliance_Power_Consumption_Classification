@@ -8,7 +8,7 @@ The notebook compares feature-based machine-learning methods with time-series me
 
 ## Notebook
 
-The complete analysis is available in [TSAC_Group_Project.ipynb](TSAC_Group_Project.ipynb).
+The complete analysis is available in [classification.ipynb](classification.ipynb).
 
 The notebook contains:
 
@@ -114,7 +114,7 @@ It also uses common scientific Python and machine-learning packages, including N
 
 ## How to Run
 
-Open [TSAC_Group_Project.ipynb](TSAC_Group_Project.ipynb) in Jupyter or Visual Studio Code.
+Open [classification.ipynb](classification.ipynb) in Jupyter or Visual Studio Code.
 
 Before running the data-loading cells:
 
